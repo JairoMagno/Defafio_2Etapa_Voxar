@@ -1,3 +1,5 @@
+# Código com script main.py de Autoria de Jairo Magno Caracciolo Marques para 2 Etapa Voxar
+
 # Multi-person Human Pose Estimation with HigherHRNet in PyTorch
 
 This is an unofficial implementation of the paper
